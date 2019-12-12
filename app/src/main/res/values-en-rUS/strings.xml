@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Submission2-Dicoding</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="movie_title">Movie</string>
+    <string name="tv_show_title">Tv Show</string>
+    <string name="deskripsi_movie">Movie Description</string>
+    <string name="nama_movie">Movie Name</string>
+    <string name="change_language_settings">Change Language Settings</string>
+    <string name="story">Story:</string>
+
+
+    <string-array name="movie_name">
+        <item>Bohemian Rhapsody</item>
+        <item>Preman Pensiun</item>
+        <item>Bumblebee</item>
+        <item>Deadpool</item>
+        <item>Glass</item>
+        <item>A Star is Born</item>
+        <item>Venom</item>
+        <item>Mortal Engine</item>
+        <item>Robin Hood</item>
+        <item>Weathering With You</item>
+    </string-array>
+    <array name="movie_photo">
+        <item>@drawable/poster_bohemian</item>
+        <item>@drawable/poster_preman</item>
+        <item>@drawable/poster_bumblebee</item>
+        <item>@drawable/poster_deadpool</item>
+        <item>@drawable/poster_glass</item>
+        <item>@drawable/poster_a_star</item>
+        <item>@drawable/poster_venom</item>
+        <item>@drawable/poster_mortalengine</item>
+        <item>@drawable/poster_robinhood</item>
+        <item>@drawable/poster_weathering</item>
+    </array>
+    <array name="movie_backdrop">
+        <item>@drawable/poster_bohemian</item>
+        <item>@drawable/poster_preman</item>
+        <item>@drawable/poster_bumblebee</item>
+        <item>@drawable/poster_deadpool</item>
+        <item>@drawable/poster_glass</item>
+        <item>@drawable/poster_a_star</item>
+        <item>@drawable/poster_venom</item>
+        <item>@drawable/poster_mortalengine</item>
+        <item>@drawable/poster_robinhood</item>
+        <item>@drawable/poster_weathering</item>
+    </array>
+    <string-array name="movie_desc">
+        <item>Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take the music world by storm when they form the rock n roll band Queen in 1970. Hit songs become instant classics.…</item>
+        <item>After three years, the business of Muslihat (Epi Kusnandar), who has retired as a thug, has a problem. Sales decline. Muslihat also faces new problems when Safira (Safira Maharani), her only daughter, grows up in adolescence and begins to be visited by boys. A bigger problem: frictions between his former subordinates.</item>
+        <item>On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small Californian beach town. Charlie, on the cusp of turning 18 and trying to find her place in the world, discovers Bumblebee, battle-scarred and broken. When Charlie revives him, she quickly learns this is no ordinary yellow VW bug.</item>
+        <item>Deadpool tells the origin story of former Special Forces operative turned mercenary Wade Wilson, who after being subjected to a rogue experiment that leaves him with accelerated healing powers, adopts the alter ego Deadpool. Armed with his new abilities and a dark, twisted sense of humor, Deadpool hunts down the man who nearly destroyed his life.</item>
+        <item>In a series of escalating encounters, former security guard David Dunn uses his supernatural abilities to track Kevin Wendell Crumb, a disturbed man who has twenty-four personalities. Meanwhile, the shadowy presence of Elijah Price emerges as an orchestrator who holds secrets critical to both men.</item>
+        <item>Seasoned musician Jackson Maine discovers — and falls in love with — struggling artist Ally. She has just about given up on her dream to make it big as a singer — until Jack coaxes her into the spotlight. But even as Allys career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons.</item>
+        <item>Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.</item>
+        <item>Many thousands of years in the future, Earth’s cities roam the globe on huge wheels, devouring each other in a struggle for ever diminishing resources. On one of these massive traction cities, the old London, Tom Natsworthy has an unexpected encounter with a mysterious young woman from the wastelands who will change the course of his life forever.</item>
+        <item>A war-hardened Crusader and his Moorish commander mount an audacious revolt against the corrupt English crown.</item>
+        <item>Hodaka, a high school boy who moves from his isolated island home to the city of Tokyo, who immediately becomes broke! After finally finding work at a shady occult magazine, the sky rains every day until amidst the hustle and bustle of the big city, he meets a young woman called Hina. She lives a cheerful life with her younger brother, but also has a certain power: to stop the rain and clear the sky.</item>
+    </string-array>
+    <string-array name="movie_directors">
+        <item>Bryan Singer</item>
+        <item>Aris Nugraha</item>
+        <item>Travis Knight</item>
+        <item>David Leitch</item>
+        <item>Night Shyamalan</item>
+        <item>Bradley Cooper</item>
+        <item>Ruben Fleichser</item>
+        <item>Christian Rivers</item>
+        <item>Otto Bathurst</item>
+        <item>Makoto Shinkai</item>
+    </string-array>
+    <string-array name="movie_rating">
+        <item>8.0</item>
+        <item>7.3</item>
+        <item>6.8</item>
+        <item>7.7</item>
+        <item>6.7</item>
+        <item>7.7</item>
+        <item>6.7</item>
+        <item>6.1</item>
+        <item>5.3</item>
+        <item>7.8</item>
+    </string-array>
+
+
+    <string-array name="tv_show_name">
+        <item>American Horror</item>
+        <item>Fairy Tail</item>
+        <item>Fire Force</item>
+        <item>Game of Thrones</item>
+        <item>Naruto Shipudden</item>
+        <item>Ricky And Morty</item>
+        <item>The Simpson</item>
+        <item>The Walking Dead</item>
+        <item>Tom Clancy Jack Ryan</item>
+        <item>Wathcmen</item>
+    </string-array>
+
+    <array name="tv_show_photo">
+        <item>@drawable/tv_show_american_horror</item>
+        <item>@drawable/tv_show_fairytail</item>
+        <item>@drawable/tv_show_fire_force</item>
+        <item>@drawable/tv_show_game_of_thrones</item>
+        <item>@drawable/tv_show_naruto_shipudden</item>
+        <item>@drawable/tv_show_ricky_and_morty</item>
+        <item>@drawable/tv_show_the_simpson</item>
+        <item>@drawable/tv_show_the_walking_dead</item>
+        <item>@drawable/tv_show_tom_clancy_jack_ryan</item>
+        <item>@drawable/tv_show_watchmen</item>
+    </array>
+
+    <string-array name="tv_show_description">
+        <item>An anthology series centering on different characters and locations, including a house with a murderous past, an insane asylum, a witch coven, a freak show circus, a haunted hotel, a possessed farmhouse, a cult, the apocalypse, and a slasher summer camp.</item>
+        <item>In the mystical land of Fiore, magic exists as an essential part of everyday life. Countless magic guilds lie at the core of all magical activity, and serve as venues for like-minded mages to band together and take on job requests. Among them, Fairy Tail stands out from the rest as a place of strength, spirit, and family.</item>
+        <item>Spontaneous Human Combustion: a chaotic phenomenon that has plagued humanity for years, randomly transforming ordinary people into flaming, violent creatures known as Infernals. While Infernals make up the first-generation accounts of Human Combustion, the second and third generations became known as pyrokinetics—people gifted with the ability to manipulate and control their flames while remaining human. To combat the Infernal threat and discover the cause, the Tokyo Armed Forces, Fire Defense Agency, and Holy Church of Sol produced their answer:the Special Fire Force</item>
+        <item>Nine noble families fight for control over the mythical lands of Westeros, while an ancient enemy returns after being dormant for thousands of years.</item>
+        <item>It has been two and a half years since Naruto Uzumaki left Konohagakure, the Hidden Leaf Village, for intense training following events which fueled his desire to be stronger. Now Akatsuki, the mysterious organization of elite rogue ninja, is closing in on their grand plan which may threaten the safety of the entire shinobi world.</item>
+        <item>An animated series that follows the exploits of a super scientist and his not-so-bright grandson.</item>
+        <item>The satiric adventures of a working-class family in the misfit city of Springfield.</item>
+        <item>Sheriff Deputy Rick Grimes wakes up from a coma to learn the world is in ruins, and must lead a group of survivors to stay alive.</item>
+        <item>An up-and-coming CIA analyst, Jack Ryan, is thrust into a dangerous field assignment as he uncovers a pattern in terrorist communication that launches him into the center of a dangerous gambit.</item>
+        <item>Set in an alternate history where masked vigilantes are treated as outlaws, Watchmen embraces the nostalgia of the original groundbreaking graphic novel of the same name, while attempting to break new ground of its own.</item>
+    </string-array>
+
+    <string-array name="tv_show_rating">
+        <item>8.1</item>
+        <item>8.0</item>
+        <item>7.8</item>
+        <item>9.4</item>
+        <item>8.5</item>
+        <item>9.3</item>
+        <item>8.7</item>
+        <item>8.3</item>
+        <item>8/3</item>
+        <item>7.3</item>
+    </string-array>
+</resources>

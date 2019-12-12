@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+        <string name="app_name">Submission2-Dicoding</string>
+
+        <!-- TODO: Remove or change this placeholder text -->
+        <string name="movie_title">Film</string>
+        <string name="tv_show_title">Acara Tv</string>
+        <string name="deskripsi_movie">Deskripsi Movie</string>
+        <string name="nama_movie">Nama Movie</string>
+    <string name="change_language_settings">Ubah Pengaturan Bahasa</string>
+    <string name="story">Cerita:</string>
+
+
+    <string-array name="movie_name">
+            <item>Bohemian Rhapsody</item>
+            <item>Preman Pensiun</item>
+            <item>Bumblebee</item>
+            <item>Deadpool</item>
+            <item>Glass</item>
+            <item>A Star is Born</item>
+            <item>Venom</item>
+            <item>Mortal Engine</item>
+            <item>Robin Hood</item>
+            <item>Weathering With You</item>
+        </string-array>
+        <array name="movie_photo">
+            <item>@drawable/poster_bohemian</item>
+            <item>@drawable/poster_preman</item>
+            <item>@drawable/poster_bumblebee</item>
+            <item>@drawable/poster_deadpool</item>
+            <item>@drawable/poster_glass</item>
+            <item>@drawable/poster_a_star</item>
+            <item>@drawable/poster_venom</item>
+            <item>@drawable/poster_mortalengine</item>
+            <item>@drawable/poster_robinhood</item>
+            <item>@drawable/poster_weathering</item>
+        </array>
+        <array name="movie_backdrop">
+            <item>@drawable/poster_bohemian</item>
+            <item>@drawable/poster_preman</item>
+            <item>@drawable/poster_bumblebee</item>
+            <item>@drawable/poster_deadpool</item>
+            <item>@drawable/poster_glass</item>
+            <item>@drawable/poster_a_star</item>
+            <item>@drawable/poster_venom</item>
+            <item>@drawable/poster_mortalengine</item>
+            <item>@drawable/poster_robinhood</item>
+            <item>@drawable/poster_weathering</item>
+        </array>
+        <string-array name="movie_desc">
+            <item>Penyanyi Freddie Mercury, gitaris Brian May, drummer Roger Taylor dan gitaris bass John Deacon membawa dunia musik dengan badai ketika mereka membentuk band rock n roll Queen pada tahun 1970. Lagu-lagu hit menjadi instan klasik</item>
+            <item>Setelah tiga tahun, bisnis Muslihat (Epi Kusnandar), yang telah pensiun sebagai preman, memiliki masalah. Penurunan penjualan. Muslihat juga menghadapi masalah baru ketika Safira (Safira Maharani), satu-satunya anak perempuannya, tumbuh di masa remaja dan mulai dikunjungi oleh anak laki-laki. Masalah yang lebih besar: gesekan antara mantan bawahannya.</item>
+            <item>Dalam pelarian pada tahun 1987, Bumblebee menemukan tempat perlindungan di tempat barang rongsokan di kota pantai kecil California. Charlie, di puncak usia 18 dan berusaha menemukan tempatnya di dunia, menemukan Bumblebee, bekas luka pertempuran dan patah. Ketika Charlie menghidupkannya, dia dengan cepat mengetahui bahwa ini bukan mobil VW kuning biasa.</item>
+            <item>Deadpool menceritakan kisah asal-usul mantan anggota Pasukan Khusus yang berubah menjadi tentara bayaran Wade Wilson, yang setelah menjadi sasaran percobaan jahat yang membuatnya memiliki kekuatan penyembuhan yang dipercepat, mengadopsi Deadpool alter ego. Dipersenjatai dengan kemampuan barunya dan selera humornya yang gelap dan berputar-putar, Deadpool memburu pria yang hampir menghancurkan hidupnya.</item>
+            <item>Dalam serangkaian pertemuan yang meningkat, mantan penjaga keamanan David Dunn menggunakan kemampuan supernaturalnya untuk melacak Kevin Wendell Crumb, seorang lelaki terganggu yang memiliki dua puluh empat kepribadian. Sementara itu, kehadiran bayangan Elia Price muncul sebagai seorang orkestra yang menyimpan rahasia penting bagi keduanya.</item>
+            <item>Musisi kawakan Jackson Maine menemukan - dan jatuh cinta dengan - artis yang sedang berjuang Ally. Dia baru saja menyerah pada mimpinya untuk menjadi besar sebagai penyanyi - sampai Jack membujuknya menjadi sorotan. Tetapi bahkan ketika karir Allys lepas landas, sisi pribadi dari hubungan mereka hancur, ketika Jack berjuang secara terus-menerus dengan iblis internalnya sendiri.</item>
+            <item>Jurnalis investigasi Eddie Brock mencoba untuk kembali setelah skandal, tetapi secara tidak sengaja menjadi tuan rumah Venom, seorang simbiot alien yang sangat kuat dan sakti. Segera, ia harus mengandalkan kekuatan barunya untuk melindungi dunia dari organisasi bayangan yang mencari simbiosis mereka sendiri.</item>
+            <item>Beribu-ribu tahun di masa depan, kota-kota di bumi menjelajah dunia dengan roda besar, saling melahap dalam perjuangan untuk sumber daya yang semakin berkurang. Di salah satu kota traksi besar ini, London tua, Tom Natsworthy mengalami pertemuan tak terduga dengan seorang wanita muda misterius dari daerah terlantar yang akan mengubah jalan hidupnya selamanya.</item>
+            <item> Seorang pejuang perang yang keras dan komandan Moornya melakukan pemberontakan yang berani melawan mahkota Inggris yang korup.</item>
+            <item>Hodaka, bocah laki-laki sekolah menengah yang pindah dari rumah pulau terpencilnya ke kota Tokyo, yang segera menjadi bangkrut! Setelah akhirnya menemukan pekerjaan di majalah okultis yang teduh, langit turun hujan setiap hari sampai di tengah hiruk pikuk kota besar, ia bertemu dengan seorang wanita muda bernama Hina. Dia menjalani kehidupan yang ceria dengan adik laki-lakinya, tetapi juga memiliki kekuatan tertentu: untuk menghentikan hujan dan membersihkan langit.</item>
+        </string-array>
+        <string-array name="movie_directors">
+            <item>Bryan Singer</item>
+            <item>Aris Nugraha</item>
+            <item>Travis Knight</item>
+            <item>David Leitch</item>
+            <item>Night Shyamalan</item>
+            <item>Bradley Cooper</item>
+            <item>Ruben Fleichser</item>
+            <item>Christian Rivers</item>
+            <item>Otto Bathurst</item>
+            <item>Makoto Shinkai</item>
+        </string-array>
+        <string-array name="movie_rating">
+            <item>8.0</item>
+            <item>7.3</item>
+            <item>6.8</item>
+            <item>7.7</item>
+            <item>6.7</item>
+            <item>7.7</item>
+            <item>6.7</item>
+            <item>6.1</item>
+            <item>5.3</item>
+            <item>7.8</item>
+        </string-array>
+
+
+        <string-array name="tv_show_name">
+            <item>American Horror</item>
+            <item>Fairy Tail</item>
+            <item>Fire Force</item>
+            <item>Game of Thrones</item>
+            <item>Naruto Shipudden</item>
+            <item>Ricky And Morty</item>
+            <item>The Simpson</item>
+            <item>The Walking Dead</item>
+            <item>Tom Clancy Jack Ryan</item>
+            <item>Wathcmen</item>
+        </string-array>
+
+        <array name="tv_show_photo">
+            <item>@drawable/tv_show_american_horror</item>
+            <item>@drawable/tv_show_fairytail</item>
+            <item>@drawable/tv_show_fire_force</item>
+            <item>@drawable/tv_show_game_of_thrones</item>
+            <item>@drawable/tv_show_naruto_shipudden</item>
+            <item>@drawable/tv_show_ricky_and_morty</item>
+            <item>@drawable/tv_show_the_simpson</item>
+            <item>@drawable/tv_show_the_walking_dead</item>
+            <item>@drawable/tv_show_tom_clancy_jack_ryan</item>
+            <item>@drawable/tv_show_watchmen</item>
+        </array>
+
+        <string-array name="tv_show_description">
+            <item>Serial antologi yang berpusat pada karakter dan lokasi yang berbeda, termasuk rumah dengan masa lalu yang mematikan, rumah sakit jiwa, coven penyihir, sirkus pertunjukan aneh, hotel berhantu, rumah pertanian yang dimiliki, sebuah kultus, kiamat, dan kamp musim panas pedang .</item>
+            <item>Di negeri mistis Fiore, sihir ada sebagai bagian penting dari kehidupan sehari-hari. Guild sihir yang tak terhitung terletak pada inti dari semua kegiatan magis, dan berfungsi sebagai tempat bagi penyihir yang berpikiran sama untuk bersatu dan menerima permintaan pekerjaan. Di antara mereka, Fairy Tail menonjol dari yang lain sebagai tempat kekuatan, semangat, dan keluarga.</item>
+            <item>Spontaneous Human Combustion: sebuah fenomena kacau yang telah merongrong umat manusia selama bertahun-tahun, secara acak mengubah orang-orang biasa menjadi makhluk yang ganas dan ganas yang dikenal sebagai Infernals. Sementara Infernals merupakan akun generasi pertama dari Human Combustion, generasi kedua dan ketiga dikenal sebagai pirokinetik — orang-orang berbakat dengan kemampuan untuk memanipulasi dan mengendalikan api mereka sambil tetap menjadi manusia. Untuk memerangi ancaman Infernal dan menemukan penyebabnya, Angkatan Bersenjata Tokyo, Badan Pertahanan Kebakaran, dan Gereja Suci Sol menghasilkan jawaban mereka: Pasukan Pemadam Kebakaran Khusus</item>
+            <item>Sembilan keluarga bangsawan berjuang untuk menguasai tanah mitos Westeros, sementara musuh kuno kembali setelah tidak aktif selama ribuan tahun.</item>
+            <item>Sudah dua setengah tahun sejak Naruto Uzumaki meninggalkan Konohagakure, Desa Konoha, untuk pelatihan intensif setelah acara yang memicu keinginannya untuk menjadi lebih kuat. Sekarang Akatsuki, organisasi misterius ninja nakal elit, mendekati rencana besar mereka yang dapat mengancam keselamatan seluruh dunia shinobi.</item>
+            <item>Serial animasi yang mengikuti eksploitasi ilmuwan super dan cucunya yang tidak begitu pintar.</item>
+            <item>Petualangan menyindir dari keluarga kelas pekerja di kota Springfield yang tidak sesuai.</item>
+            <item>Wakil Sheriff Rick Grimes bangun dari koma untuk mengetahui bahwa dunia ini hancur, dan harus memimpin sekelompok orang yang selamat untuk tetap hidup.</item>
+            <item>Seorang analis CIA yang sedang naik daun, Jack Ryan, didorong ke dalam penugasan lapangan yang berbahaya ketika ia mengungkap pola dalam komunikasi teroris yang meluncurkannya ke pusat penjahat berbahaya.</item>
+            <item>Ditetapkan dalam sejarah alternatif di mana penjaga bertopeng diperlakukan sebagai penjahat, Watchmen merangkul nostalgia dari novel grafis inovatif dengan nama yang sama, sementara mencoba untuk memecahkan tanah baru sendiri.</item>
+        </string-array>
+
+        <string-array name="tv_show_rating">
+            <item>8.1</item>
+            <item>8.0</item>
+            <item>7.8</item>
+            <item>9.4</item>
+            <item>8.5</item>
+            <item>9.3</item>
+            <item>8.7</item>
+            <item>8.3</item>
+            <item>8/3</item>
+            <item>7.3</item>
+        </string-array>
+    </resources>
+
